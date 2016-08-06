@@ -1,0 +1,37 @@
+h1, h2 {
+	font-family: Open Sans;
+}
+
+#jumbo {
+	padding-top: 100px
+}
+
+#jumbo h1 {
+	font-size: 70pt;
+	text-align: center
+}
+
+#sub {
+	padding: 0% 15% 0% 15%;
+	text-align: center
+}
+
+#follow_us {
+	padding-top: 35px;
+	position: relative;
+	width: 100%;
+	text-align: center
+}
+
+#follow_us img {
+	padding: 0 10px;
+}
+
+.players_online {
+	margin: -10px 0 12px 0
+}
+
+#contact_us {
+	margin-top: 10px;
+	font-size:90%
+}
